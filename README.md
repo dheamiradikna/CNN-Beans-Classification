@@ -180,7 +180,7 @@ Pillow>=9.5.0
 
 ## 👩‍💻 Author
 
-**Dhea Miradikna** — Universitas Negeri Semarang (UNNES)
+**Dhea Miradikna**
 
 ---
 
